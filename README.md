@@ -1,3 +1,3 @@
 ### Link to the website:
 
-dan-meals.netlify.app
+https://dan-meals.netlify.app/
